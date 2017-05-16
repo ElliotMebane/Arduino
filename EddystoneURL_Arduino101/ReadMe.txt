@@ -14,8 +14,8 @@ Specific requirements I discovered in this version of the Curie Library:
 Reference:  
     
 Intel's GitHub Repository for the CurieBLE library  
-https://github.com/01org/corelibs-arduino101/tree/master/libraries/CurieBL   
-   
+https://github.com/01org/corelibs-arduino101/tree/master/libraries/CurieBLE/  
+
 Bluetooth GAP Specification (we want 0x16 for configuring the Advertisement as Service Data). This is handled by the CurieBLE library.   https://www.bluetooth.com/specifications/assigned-numbers/generic-access-profile  
   
 Eddystone Protocol Specification  
